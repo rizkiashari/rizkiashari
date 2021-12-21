@@ -5,4 +5,4 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiashari&layout=compact"/>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiashari&" alt="rizkiashari" /></p>
+<p><img align="center" src="https://avatars.githubusercontent.com/u/80566147?s=40&v=4" alt="rizkiashari" /></p>
