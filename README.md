@@ -3,8 +3,9 @@
 <p align=center>
   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=rizkiashari&show_icons=true&theme=radical"/>
+    <br/>
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiashari&layout=compact"/>
   </div>
-
+  <br/>
   <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiashari&" alt="rizkiashari" /></p>
 </p>
