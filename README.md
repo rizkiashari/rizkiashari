@@ -6,7 +6,7 @@
     <br/>
   </div>
   <br/><br/>
-  <div align=center>
+  <div align=center style={display: "flex";}>
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiashari&layout=compact"/>
     <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkiashari&" alt="rizkiashari" /></p>
   </div>
