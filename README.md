@@ -3,7 +3,7 @@
 <p align=center>
   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=rizkiashari&show_icons=true&theme=radical"/>
-    <br/>
+    <br/><br/>
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiashari&layout=compact"/>
   </div>
   <br/>
